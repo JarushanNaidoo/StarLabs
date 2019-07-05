@@ -1,0 +1,7 @@
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\bin\Debug\Star_Labs.exe.config
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\bin\Debug\Star_Labs.exe
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\bin\Debug\Star_Labs.pdb
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\obj\Debug\Star_Labs.csprojAssemblyReference.cache
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\obj\Debug\Star_Labs.csproj.CoreCompileInputs.cache
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\obj\Debug\Star_Labs.exe
+D:\Desktop\Work Tings\Star_Labs\Star_Labs\obj\Debug\Star_Labs.pdb
